@@ -1,5 +1,5 @@
 # Coding for the Earth: Intro to Climate Data Visualizations Using Python
-Developed by Computing Fellows Chianna Cohen and Bryn Stecher for the Climate & History course at Barnard College. Adapted by postbacc fellow Zoë Webb-Mack.
+Developed by Computing Fellows Chianna and Bryn for the Climate & History course at Barnard College. Adapted by postbacc fellow Zoë Webb-Mack.
 
 ### Workshop description:
 An introductory data visualization workshop using Python, Pandas, and Altair, which uses a global climate dataset as example data. Includes some discussing of climate data. During the workshop, students will work in Python, using data visualization library Altair and data analysis library Pandas, to create basic data visualizations of a global climate dataset.  We introduce basics of Python, Altair, and Pandas.  We also cover styling in Altair and discuss how styling impacts our interpretation of data.
